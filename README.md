@@ -21,6 +21,12 @@ https://vimeo.com/728032002
 ## Execution Flow
 ![image](https://user-images.githubusercontent.com/11453455/177934446-e4530ec5-3e34-4004-817f-5564260439db.png)
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/11453455/177940225-78b9e7ab-da03-45b4-96b6-09834493b934.png)
+![image](https://user-images.githubusercontent.com/11453455/177940381-1777a050-fce8-401b-94c2-3df4afa20c12.png)
+![image](https://user-images.githubusercontent.com/11453455/177940426-fec4f149-311b-4083-b488-e87be0f06f1d.png)
+![image](https://user-images.githubusercontent.com/11453455/177940460-e98a60e7-ef3a-4e98-873e-cc78aefb2178.png)
+
 ## References
 1.	kanjiapi.dev 
 
