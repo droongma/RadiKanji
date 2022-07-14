@@ -3,7 +3,7 @@
 ## Introduction
 **RadiKanji is an efficient Japanese kanji(한자) Learning app with Radicals(부수).**
 
-It is made with MVP design pattern, AWS Lambda(with Flask backend code) and RDS services.
+It is made with MVP design pattern, AWS Lambda(with Flask backend code) and RDS(PostgreSQL DB) services.
 
 ## Flask Codes to implement AWS Lambda
 
