@@ -5,7 +5,7 @@
 
 It is made with MVP design pattern, AWS Lambda(with Flask backend code) and RDS(PostgreSQL DB) services.
 
-## Flask Codes to implement AWS Lambda
+## Flask codes to implement AWS Lambda
 
 Creating Radical info table in RDS : <https://gist.github.com/droongma/53bae488ddb0414026466f06c36b3a07>
 
@@ -13,9 +13,9 @@ Creating Kanji info table in RDS : <https://gist.github.com/droongma/e642ac882e0
 
 Kanji and Radical data stored in these two RDS tables are from [Kanji Alive Github.](https://github.com/kanjialive/kanji-data-media)
 
-Flask Code to get Radical list from RDS Radical table : [get_radicals.py](https://gist.github.com/droongma/973dbba9099bf415b02357456fe053a3)
+Flask code to get Radical list from RDS Radical table : [get_radicals.py](https://gist.github.com/droongma/973dbba9099bf415b02357456fe053a3)
 
-Flask Code to get Kanji list from RDS Kanji table : [get_kanjis.py](https://gist.github.com/droongma/4f53a64b5a56a36304a84b0988740118)
+Flask code to get Kanji list from RDS Kanji table : [get_kanjis.py](https://gist.github.com/droongma/4f53a64b5a56a36304a84b0988740118)
 
 ## Features:
 
