@@ -21,7 +21,7 @@ Flask code to get Kanji list from RDS Kanji table : [get_kanjis.py](https://gist
 
 1. Provides Kanji and Radical lists categorized by stroke number(획수)
 
-2. If you click each Kanji, you can see detailed Kanji information(e.g. radical info, example sentences, meaning, onyomi(음독) and kunyomi(훈독))
+2. If you click each Kanji, you can see detailed Kanji information(e.g., radical info, example sentences, meaning, onyomi(음독), and kunyomi(훈독))
 
 3. You can bookmark as many Kanjis as you want
 <br/><br/>
